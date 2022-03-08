@@ -1,2 +1,2 @@
 # ormi-whitepaper
-ormi finance whitepaper in latex
+Ormi Finance Whitepaper v0.1 in LaTex.
