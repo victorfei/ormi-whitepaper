@@ -1,2 +1,2 @@
-# ormi-whitepaper
-Ormi Finance Whitepaper v0.1 in LaTex.
+# ormi demo files
+Ormi Finance Whitepaper, pitch deck, and prototype screen shots
